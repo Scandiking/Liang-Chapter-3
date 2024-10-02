@@ -14,10 +14,10 @@ __Objectives__
 - To implement selection control using nested `if` and multi-way `if` statements
 - To avoid common errors and pitfalls in `if` statements
 - To generate random numbers using the `Math.random()` method
-- To program using selection statements for a variety of examples
+- To program using selection statements for a variety of examples (SubtractionQuiz, BMI, ComputeTax)
 - To combine conditions using logical operators (`!`, `&&`, `||`, and `^`)
 - To program using selection statements with combined conditions
-- To implement selection control using switch statements
+- To implement selection control using `switch` statements
 - To write expressions using the conditional operator
 - To examine the rules governing operator precedence and associativity
 - To apply common techniques to debug errors
@@ -25,7 +25,7 @@ __Objectives__
 ---
 
 __Section__
-- 3.1 Section programming exercise 1
-- 3.2 Section programming exercise 1
-- 3.3 Section programming exercise 1
+- 3.1 [Algebra: Solve quadratic equations](https://github.com/Scandiking/Liang-Chapter-3/blob/master/src/Section_3_1.java)
+- 3.2 [Game: Multiply three numbers](https://github.com/Scandiking/Liang-Chapter-3/blob/master/src/Section_3_2.java)
+- 3.3 [Algebra: Solve 2*2 linear equations](https://github.com/Scandiking/Liang-Chapter-3/blob/master/src/Section_3_3.java)
 - More to come...
